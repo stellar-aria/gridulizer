@@ -1,5 +1,7 @@
 # Gridulizer
 
+[Click here to open](https://stellar-aria.github.io/gridulizer/gridulizer.html)
+
 This is a very simple 3D visualizer of Mutable Grids' pattern banks.
 
 The X and Y axes are the equivalent X and Y coordinates in Grids.
